@@ -59,7 +59,11 @@
   <a href="https://github.com/pratikraskar45" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
+  <a href="https://www.instagram.com/pratikraskar45/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
 </p>
+
 
 ---
 
