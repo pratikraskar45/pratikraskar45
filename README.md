@@ -49,6 +49,26 @@
 </p>
 
 ---
+<p align="center">
+  <!-- Trophy Section -->
+  <img src="https://github-profile-trophy.vercel.app/?username=pratikraskar45&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <br/>
+
+  <!-- Coding GIF 1 -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Giphy" />
+  
+  <!-- Coding GIF 2 -->
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="350" alt="Backend Developer Coding" />
+
+  <!-- Coding GIF 3 -->
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="350" alt="Java Developer Giphy" />
+
+  <!-- Coding GIF 4 -->
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="350" alt="Typing code fast" />
+
+  <!-- Coding GIF 5 -->
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="Web Dev Animation" />
+</p>
 
 ### 🔗 Connect with me
 
