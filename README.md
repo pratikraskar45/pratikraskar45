@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer & Data Science Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF5722&center=true&vCenter=true&multiline=true&width=600&height=80&lines=👨‍💻+Java+%7C+Spring+Boot+%7C+Python+%7C+Django;🌐+Full+Stack+Developer+%7C+Backend+Specialist;📊+Data+Science+%7C+Machine+Learning+Enthusiast;🔥+Always+learning+and+building+new+things!" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76900&center=true&vCenter=true&width=435&lines=Java+%7C+SpringBoot+%7C+Python+%7C+Django;Backend+Developer+%7C+Full+Stack+Learner;" />
+</p>  
 
 
 <p align="right">
