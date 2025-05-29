@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pratik H. Raskar</h1>
 <h3 align="center">A passionate Full Stack Developer & Data Science Enthusiast from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76900&center=true&vCenter=true&width=435&lines=Java+%7C+SpringBoot+%7C+Python+%7C+Django;Backend+Developer+%7C+Full+Stack+Learner;Data+Science+%7C+ML+Enthusiast+📊" />
+</p>
 
-- 🔭 I’m currently working on **Spring Boot + React Portfolio**
+<p align="right">
+  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Spring Boot**
 - 🌱 I’m currently learning **Spring Security, JWT, and Docker**
 - 💬 Ask me about **Java, Spring, Python, Django, or anything related to backend**
 - 📫 How to reach me **raskarpratik44@gmail.com**
@@ -12,6 +22,7 @@
 ---
 
 ### 🛠️ Languages & Tools
+
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -26,24 +37,39 @@
   <img src="https://img.shields.io/badge/JSP-%23ffb400.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratikraskar45&show_icons=true&theme=radical" alt="Pratik's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikraskar45&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikraskar45&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/pratikraskar45](https://www.linkedin.com/in/pratik-raskar-4b22b71a3/))  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/pratikraskar45)
+<p align="left">
+  <a href="https://www.linkedin.com/in/pratik-raskar-4b22b71a3/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://github.com/pratikraskar45" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+</p>
+
+---
+
+### 🎯 Fun & Animated Section
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratikraskar45&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <br/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
-
