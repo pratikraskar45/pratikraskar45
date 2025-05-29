@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Spring Boot + React Portfolio**
 - 🌱 I’m currently learning **Spring Security, JWT, and Docker**
 - 💬 Ask me about **Java, Spring, Python, Django, or anything related to backend**
-- 📫 How to reach me **pratikraskar45@gmail.com**
+- 📫 How to reach me **raskarpratik44@gmail.com**
 - ⚡ Fun fact: *I love tea more than coffee! ☕*
 
 ---
@@ -32,7 +32,7 @@
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratikraskar45)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/pratikraskar45](https://www.linkedin.com/in/pratik-raskar-4b22b71a3/))  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/pratikraskar45)
 
 ---
