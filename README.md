@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Spring Boot**
+- 🔭 I’m currently working on **Data Science**
 - 🌱 I’m currently learning **Spring Security, JWT, and Docker**
 - 💬 Ask me about **Java, Spring, Python, Django, or anything related to backend**
 - 📫 How to reach me **raskarpratik44@gmail.com**
