@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik H. Raskar</h1>
-<h3 align="center">Full Stack Developer & Data Science Enthusiast</h3>
+<h3 align="center">Java Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0366d6&center=true&width=500&lines=Java+%7C+SpringBoot+%7C+React;Python+%7C+Django+%7C+Node.js;Full+Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Data Science & Machine Learning projects**
-- 🌱 Learning **Spring Security, Docker, Advanced ML**
+- 🔭 Currently working on **Microservices**
+- 🌱 Learning **Spring Security, Docker**
 - 💼 Experienced in **Full Stack Development** (Frontend + Backend)
 - 📫 Reach me: **raskarpratik44@gmail.com**
 - ⚡ Fun fact: **I debug better with tea than coffee!**
